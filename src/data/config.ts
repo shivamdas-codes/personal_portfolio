@@ -1,8 +1,8 @@
 export const siteConfig = {
-    name: "Your Name",
-    title: "Senior Software Engineer",
+    name: "Shivam Das",
+    title: "Cloud and DevOps Engineer",
     description: "Full-stack engineer specializing in modern web technologies",
-    url: "https://yourportfolio.com",
+    url: "",
     ogImage: "/og-image.jpg",
     links: {
       github: "https://github.com/yourusername",
