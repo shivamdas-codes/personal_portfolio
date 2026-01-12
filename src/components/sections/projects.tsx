@@ -3,8 +3,8 @@
 import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { ExternalLink, Github, X } from "lucide-react"
-import { Card } from "@/components/ui/Card"
-import { Button } from "@/components/ui/Button"
+import { Card } from "@/components/ui/card"
+import { Button } from "@/components/ui/button"
 import { projects, type Project } from "@/data/projects"
 
 export function Projects() {

@@ -3,8 +3,8 @@
 import { useState } from "react"
 import { motion } from "framer-motion"
 import { Send, Mail, MapPin } from "lucide-react"
-import { Card } from "@/components/ui/Card"
-import { Button } from "@/components/ui/Button"
+import { Card } from "@/components/ui/card"
+import { Button } from "@/components/ui/button"
 import { siteConfig } from "@/data/config"
 
 export function Contact() {

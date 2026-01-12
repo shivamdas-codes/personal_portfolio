@@ -3,8 +3,8 @@
 import { useState, useEffect } from "react"
 import { motion } from "framer-motion"
 import { Menu, X } from "lucide-react"
-import { ThemeToggle } from "@/components/ui/ThemeToggle"
-import { Button } from "@/components/ui/Button"
+import { ThemeToggle } from "@/components/ui/themetoggle"
+import { Button } from "@/components/ui/button"
 import { siteConfig } from "@/data/config"
 
 const navItems = [
