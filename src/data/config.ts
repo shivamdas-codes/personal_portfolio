@@ -5,13 +5,13 @@ export const siteConfig = {
     url: "",
     ogImage: "/og-image.jpg",
     links: {
-      github: "https://github.com/yourusername",
-      linkedin: "https://linkedin.com/in/yourusername",
-      twitter: "https://twitter.com/yourusername",
-      email: "your.email@example.com",
+      github: "",
+      linkedin: "",
+      twitter: "",
+      email: "",
     },
-    location: "San Francisco, CA",
-    resume: "/resume.pdf",
+    location: "",
+    resume: "",
   }
   
   export const about = {
