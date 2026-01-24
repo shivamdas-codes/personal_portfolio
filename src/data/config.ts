@@ -1,7 +1,7 @@
 export const siteConfig = {
     name: "Shivam Das",
     title: "Cloud and DevOps Engineer",
-    description: "Full-stack engineer specializing in modern web technologies",
+    description: "",
     url: "",
     ogImage: "/og-image.jpg",
     links: {
@@ -15,7 +15,7 @@ export const siteConfig = {
   }
   
   export const about = {
-    bio: `I'm a senior software engineer with X+ years of experience building 
+    bio: `I'm a DevOps engineer building cloud infrastructure and automating processes. I specialize in AWS, Terraform, and Docker. Passionate about clean code, performance optimization, 
     scalable web applications. I specialize in React, TypeScript, and cloud 
     infrastructure. Passionate about clean code, performance optimization, 
     and mentoring the next generation of engineers.`,
