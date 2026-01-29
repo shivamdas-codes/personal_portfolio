@@ -13,7 +13,7 @@ export interface Experience {
     {
       id: "exp-1",
       company: "Big Tech Company",
-      role: "Senior Software Engineer",
+      role: "DevOps Engineer",
       period: "2021 - Present",
       location: "San Francisco, CA",
       description: [
