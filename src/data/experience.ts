@@ -35,6 +35,6 @@ export interface Experience {
         "Optimized database queries reducing response time by 50%",
         "Implemented CI/CD pipelines improving deployment frequency",
       ],
-      technologies: ["Vue.js", "Python", "PostgreSQL", "Docker"],
+      technologies: ["Python", "PostgreSQL", "Docker"],
     },
   ]
