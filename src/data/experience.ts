@@ -26,8 +26,8 @@ export interface Experience {
     },
     {
       id: "exp-2",
-      company: "Previous Company",
-      role: "Software Engineer",
+      company: "",
+      role: "DevOps Engineer",
       period: "2019 - 2021",
       location: "Remote",
       description: [
