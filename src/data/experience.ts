@@ -15,7 +15,7 @@ export interface Experience {
       company: "Big Tech Company",
       role: "DevOps Engineer",
       period: "2021 - Present",
-      location: "San Francisco, CA",
+      location: "",
       description: [
         "Led development of core platform features serving 10M+ users",
         "Architected microservices reducing latency by 40%",
