@@ -22,7 +22,7 @@ export interface Experience {
         "Mentored team of 8 engineers and established best practices",
         "Improved system reliability to 99.99% uptime",
       ],
-      technologies: ["React", "TypeScript", "Node.js", "AWS", "Kubernetes"],
+      technologies: ["AWS", "Kubernetes"],
     },
     {
       id: "exp-2",
